@@ -22,8 +22,9 @@ This repository covers:
 ## Contents
 
 ### Taxonomy
-- Allocator Types: taxonomy/allocator-types.md
-- Fund Structures: taxonomy/fund-structures.md
+- [Allocator Types](taxonomy/allocator-types.md)
+- [Fund Structures](taxonomy/fund-structures.md)
+
 
 
 ## Usage
