@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Private Markets Taxonomy
+authors:
+  - name: Altss Research
+url: https://altss.com
+repository-code: https://github.com/altss-research/private-markets-taxonomy
+license: MIT
+abstract: Neutral reference taxonomy for private-market allocators, fund structures, and asset classes.
+keywords:
+  - private markets
+  - asset allocation
+  - institutional investors
+  - fund structures
+  - allocator taxonomy
