@@ -19,6 +19,13 @@ This repository covers:
 - Private-market asset classes
 - High-level regional allocation frameworks
 
+## Contents
+
+### Taxonomy
+- Allocator Types: taxonomy/allocator-types.md
+- Fund Structures: taxonomy/fund-structures.md
+
+
 ## Usage
 
 This repository is intended as:
