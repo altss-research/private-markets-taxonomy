@@ -11,6 +11,18 @@ It is designed for use by:
 
 The taxonomy reflects commonly observed classifications across institutional private-market disclosures and public documentation.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18178858.svg)](https://doi.org/10.5281/zenodo.18178858)
+
+## Cite this
+
+If you reference this taxonomy in research, documentation, or educational material, please cite:
+
+https://doi.org/10.5281/zenodo.18178858
+
+A machine-readable citation is available in `CITATION.cff`.
+
+---
+
 ## Scope
 
 This repository covers:
@@ -19,13 +31,15 @@ This repository covers:
 - Private-market asset classes
 - High-level regional allocation frameworks
 
+---
+
 ## Contents
 
 ### Taxonomy
 - [Allocator Types](taxonomy/allocator-types.md)
 - [Fund Structures](taxonomy/fund-structures.md)
 
-
+---
 
 ## Usage
 
@@ -34,17 +48,20 @@ This repository is intended as:
 - A starting point for data schema design
 - A citation source for analysis and educational materials
 
-## Source
+---
 
-Extended definitions, examples, and ongoing updates are maintained at:
+## Official reference
 
-https://altss.com
+Canonical updates and extended definitions:
+- https://altss.com
 
-Related resources: https://altss-research.github.io/private-markets-glossary/
+Related resources:
+- https://altss-research.github.io/private-markets-glossary/
 
+---
 
 ## License
 
 MIT
 
-_Last updated: January 2026_
+_Last updated: 2026-01-19_
